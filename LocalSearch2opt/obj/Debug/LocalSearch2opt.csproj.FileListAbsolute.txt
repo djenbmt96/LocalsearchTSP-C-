@@ -1,0 +1,14 @@
+C:\Users\WIN8 64BIT\Desktop\TSP_localsearch\LocalSearch2opt\LocalSearch2opt\obj\Debug\LocalSearch2opt.csprojAssemblyReference.cache
+C:\Users\WIN8 64BIT\Desktop\TSP_localsearch\LocalSearch2opt\LocalSearch2opt\obj\Debug\LocalSearch2opt.csproj.CoreCompileInputs.cache
+C:\Users\WIN8 64BIT\Desktop\TSP_localsearch\LocalSearch2opt\LocalSearch2opt\bin\Debug\LocalSearch2opt.exe.config
+C:\Users\WIN8 64BIT\Desktop\TSP_localsearch\LocalSearch2opt\LocalSearch2opt\bin\Debug\LocalSearch2opt.exe
+C:\Users\WIN8 64BIT\Desktop\TSP_localsearch\LocalSearch2opt\LocalSearch2opt\bin\Debug\LocalSearch2opt.pdb
+C:\Users\WIN8 64BIT\Desktop\TSP_localsearch\LocalSearch2opt\LocalSearch2opt\obj\Debug\LocalSearch2opt.exe
+C:\Users\WIN8 64BIT\Desktop\TSP_localsearch\LocalSearch2opt\LocalSearch2opt\obj\Debug\LocalSearch2opt.pdb
+D:\Education\TSP_2opt_c--master\LocalSearch2opt\bin\Debug\LocalSearch2opt.exe.config
+D:\Education\TSP_2opt_c--master\LocalSearch2opt\bin\Debug\LocalSearch2opt.exe
+D:\Education\TSP_2opt_c--master\LocalSearch2opt\bin\Debug\LocalSearch2opt.pdb
+D:\Education\TSP_2opt_c--master\LocalSearch2opt\obj\Debug\LocalSearch2opt.csprojAssemblyReference.cache
+D:\Education\TSP_2opt_c--master\LocalSearch2opt\obj\Debug\LocalSearch2opt.csproj.CoreCompileInputs.cache
+D:\Education\TSP_2opt_c--master\LocalSearch2opt\obj\Debug\LocalSearch2opt.exe
+D:\Education\TSP_2opt_c--master\LocalSearch2opt\obj\Debug\LocalSearch2opt.pdb

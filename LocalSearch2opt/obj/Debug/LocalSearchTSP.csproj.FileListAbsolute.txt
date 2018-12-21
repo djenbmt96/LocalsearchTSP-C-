@@ -1,0 +1,14 @@
+D:\Education\TSP_2opt_c--master\LocalSearch2opt\bin\Debug\LocalSearchTSP.exe.config
+D:\Education\TSP_2opt_c--master\LocalSearch2opt\bin\Debug\LocalSearchTSP.exe
+D:\Education\TSP_2opt_c--master\LocalSearch2opt\bin\Debug\LocalSearchTSP.pdb
+D:\Education\TSP_2opt_c--master\LocalSearch2opt\obj\Debug\LocalSearchTSP.csprojAssemblyReference.cache
+D:\Education\TSP_2opt_c--master\LocalSearch2opt\obj\Debug\LocalSearchTSP.csproj.CoreCompileInputs.cache
+D:\Education\TSP_2opt_c--master\LocalSearch2opt\obj\Debug\LocalSearchTSP.exe
+D:\Education\TSP_2opt_c--master\LocalSearch2opt\obj\Debug\LocalSearchTSP.pdb
+D:\Education\TSP-LS-NET\LocalSearch2opt\bin\Debug\LocalSearchTSP.exe.config
+D:\Education\TSP-LS-NET\LocalSearch2opt\bin\Debug\LocalSearchTSP.exe
+D:\Education\TSP-LS-NET\LocalSearch2opt\bin\Debug\LocalSearchTSP.pdb
+D:\Education\TSP-LS-NET\LocalSearch2opt\obj\Debug\LocalSearchTSP.csprojAssemblyReference.cache
+D:\Education\TSP-LS-NET\LocalSearch2opt\obj\Debug\LocalSearchTSP.csproj.CoreCompileInputs.cache
+D:\Education\TSP-LS-NET\LocalSearch2opt\obj\Debug\LocalSearchTSP.exe
+D:\Education\TSP-LS-NET\LocalSearch2opt\obj\Debug\LocalSearchTSP.pdb

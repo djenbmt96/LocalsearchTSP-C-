@@ -1,0 +1,37 @@
+NAME : wi29
+COMMENT : 29 locations in Western Sahara
+COMMENT : Derived from National Imagery and Mapping Agency data
+TYPE : TSP
+DIMENSION : 29
+EDGE_WEIGHT_TYPE : EUC_2D
+NODE_COORD_SECTION
+1 0 15
+2 0 22
+3 0 29
+4 0 42
+5 0 43
+6 0 44
+7 0 45
+8 0 46
+9 0 47
+10 0 48
+11 0 49
+12 0 50
+13 0 51
+14 0 8
+15 0 81
+16 2 31
+17 2 32
+18 2 38
+19 2 39
+20 2 45
+21 2 46
+22 2 49
+23 2 51
+24 2 53
+25 2 55
+26 2 58
+27 2 60
+28 2 62
+29 2 63
+EOF
