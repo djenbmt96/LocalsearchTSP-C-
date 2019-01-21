@@ -8,3 +8,5 @@ Local Search algorithm to resolve Travelling Salesman Problem (TSP)
 1. In the project directory, go to LocalSearch2opt\bin\Debug
 2. Open filetest.txt
 3. Change your data here and run the app again
+## Get data for testing
+Link http://www.math.uwaterloo.ca/tsp/vlsi/index.html
